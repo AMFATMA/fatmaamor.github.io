@@ -6,7 +6,7 @@ permalink: /project
 
 # Project: Predicting Respiratory Disease Risk
 
-<img src="Projet 1/images/image2.png" width="800" height="500" />
+<img src="Projet1/images/image2.png" width="800" height="500" />
 
 ---
 
@@ -40,7 +40,7 @@ Predict the risk of chronic respiratory diseases (such as asthma, COPD) based on
 
 ## Project Architecture
 
-<img src="Projet 1/images/architecture.png" width="800" />
+<img src="Projet1/images/architecture.png" width="800" />
 
 Pipeline:  
 1. **Data Collection** – Ameli, ANSES, Open-Météo  
@@ -54,10 +54,10 @@ Pipeline:
 ---
 
 ## 🔗 Notebooks & Code
-- [ETL Scripts](https://fatmaamor.github.io/notebooks/Bloc1/ETL)  
-- [Preprocessing & Analysis](https://fatmaamor.github.io/notebooks/Bloc2/analyse_preprocessing.ipynb)  
-- [Machine Learning](https://fatmaamor.github.io/notebooks/Bloc3/machine_learning.ipynb)  
-- [Deep Learning](https://fatmaamor.github.io/notebooks/Bloc4/Deep_learning.ipynb)  
+- [ETL Scripts](https://fatmaamor.github.io/Projet1/Bloc1/ETL)  
+- [Preprocessing & Analysis](https://fatmaamor.github.io/Projet1/Bloc2/analyse_preprocessing.ipynb)  
+- [Machine Learning](https://fatmaamor.github.io/Projet1/Bloc3/machine_learning.ipynb)  
+- [Deep Learning](https://fatmaamor.github.io/projet1/Bloc4/Deep_learning.ipynb)  
 
 
 
@@ -65,7 +65,7 @@ Pipeline:
 
 ## Dashboard Preview
 
-<img src="Projet 1/images/dash.png" width="1000" />
+<img src="Projet1/images/dash.png" width="1000" />
 
 ---
 
@@ -84,6 +84,7 @@ Pipeline:
 ---
 
 [Home](README.md) | [Contact](contact.md)
+
 
 
 
