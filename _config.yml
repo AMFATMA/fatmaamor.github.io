@@ -2,10 +2,11 @@ title: "Fatma Amor - Data Analyst"
 description: "Portfolio & Projects"
 theme: jekyll-theme-slate
 
+
 nav:
   - name: "Home"
     link: /
   - name: "Projects"
-    link: /project
+    link: /projet/
   - name: "Contact"
-    link: /contact
+    link: /contact/
