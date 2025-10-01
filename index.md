@@ -66,9 +66,10 @@ permalink: /
 </h2>
 
 <ul>
-  <li>📊 <a href="{{ site.baseurl }}/projets/">Projects</a></li>
-  <li>📬 <a href="{{ site.baseurl }}/contact/">Contact Me</a></li>
+  <li>📊 <a href="/projets/">Projects</a></li>
+  <li>📬 <a href="/contact/">Contact Me</a></li>
 </ul>
+
 
 
 
