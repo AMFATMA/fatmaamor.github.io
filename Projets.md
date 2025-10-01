@@ -54,10 +54,11 @@ Pipeline:
 ---
 
 ## 🔗 Notebooks & Code
-- [ETL Scripts](https://fatmaamor.github.io//fatmaamor.github.io/notebooks/Bloc1/ETL)  
-- [Preprocessing & Analysis](https://fatmaamor.github.io/fatmaamor.github.io/notebooks/Bloc2/analyse_preprocessing.ipynb)  
-- [Machine Learning](https://fatmaamor.github.io/fatmaamor.github.io/notebooks/Bloc3/machine_learning.ipynb)  
-- [Deep Learning](https://fatmaamor.github.io/fatmaamor.github.io/notebooks/Bloc4/Deep_learning.ipynb)  
+- [ETL Scripts](https://fatmaamor.github.io/notebooks/Bloc1/ETL)  
+- [Preprocessing & Analysis](https://fatmaamor.github.io/notebooks/Bloc2/analyse_preprocessing.ipynb)  
+- [Machine Learning](https://fatmaamor.github.io/notebooks/Bloc3/machine_learning.ipynb)  
+- [Deep Learning](https://fatmaamor.github.io/notebooks/Bloc4/Deep_learning.ipynb)  
+
 
 
 ---
@@ -83,6 +84,7 @@ Pipeline:
 ---
 
 [Home](README.md) | [Contact](contact.md)
+
 
 
 
