@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projet
+permalink: /projet/
 ---
 
 # Project: Predicting Respiratory Disease Risk
@@ -85,6 +85,7 @@ Pipeline:
 ---
 
 [Home](README.md) | [Contact](contact.md)
+
 
 
 
