@@ -1,9 +1,10 @@
 
 ---
-layout: page
+layout: default
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
+
 
 # Contact Me
 
@@ -20,4 +21,5 @@ permalink: /contact
 ---
 
 Always open to collaborations and new opportunities in **Data Analytics & Machine Learning**.
+
 
