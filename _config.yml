@@ -2,11 +2,12 @@ title: "Fatma Amor - Data Analyst"
 description: "Portfolio & Projects"
 theme: jekyll-theme-slate
 
+baseurl: "/fatmaamor.github.io"
 
 nav:
   - name: "Home"
     link: /
   - name: "Projects"
-    link: /projet/
+    link: /project
   - name: "Contact"
-    link: /contact/
+    link: /contact
