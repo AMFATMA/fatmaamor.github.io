@@ -3,11 +3,12 @@ description: "Portfolio & Projects"
 theme: jekyll-theme-slate
 
 baseurl: ""
+url: "https://fatmaamor.github.io"
 
 nav:
   - name: "Home"
     link: /
   - name: "Projects"
-    link: /Projet1
+    link: /projets
   - name: "Contact"
     link: /contact
