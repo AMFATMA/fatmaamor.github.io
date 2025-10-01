@@ -66,8 +66,9 @@ permalink: /
 </h2>
 
 <ul>
-  <li>📊 <a href="project.md">Projects</a></li>
-  <li>📬 <a href="contact.md">Contact Me</a></li>
+  <li>📊 <a href="projects">Projects</a></li>
+  <li>📬 <a href="contact">Contact Me</a></li>
 </ul>
+
 
 
