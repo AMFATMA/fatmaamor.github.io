@@ -60,14 +60,16 @@ permalink: /
   <h2 style="color:#1E90FF;">Quick Links</h2>
 <ul>
 <ul>
-  <li><a href="/Projets/">Projects</a></li>
-  <li><a href="/contact/">Contact Me</a></li>
+  <li><a href="Projets.md">Projects</a></li>
+  <li><a href="contact.md">Contact Me</a></li>
 </ul>
 
 </ul>
 
 
 </div>
+
+
 
 
 
