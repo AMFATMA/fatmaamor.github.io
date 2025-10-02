@@ -59,12 +59,16 @@ permalink: /
 <div style="background-color:#f5f5f5; padding:20px; border-radius:10px;">
   <h2 style="color:#1E90FF;">Quick Links</h2>
 <ul>
-  <li><a href="{{ site.baseurl }}/Projets/">Projects</a></li>
-  <li><a href="{{ site.baseurl }}/contact/">Contact Me</a></li>
+<ul>
+  <li><a href="/Projets/">Projects</a></li>
+  <li><a href="/contact/">Contact Me</a></li>
+</ul>
+
 </ul>
 
 
 </div>
+
 
 
 
