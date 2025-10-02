@@ -1,6 +1,5 @@
-
 ---
-layout: default
+layout: page
 title: Contact
 permalink: /contact/
 ---
@@ -21,5 +20,6 @@ permalink: /contact/
 ---
 
 Always open to collaborations and new opportunities in **Data Analytics & Machine Learning**.
+
 
 
