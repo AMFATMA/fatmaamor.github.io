@@ -60,8 +60,8 @@ permalink: /
   <h2 style="color:#1E90FF;">Quick Links</h2>
 <ul>
 <ul>
-  <li><a href="Projet-Prediction of Chronic Respiratory Diseases">Project1</a></li>
-  <li><a href="Projet-Fashion Classification">Project2</a></li>
+  <li><a href="Projet1">-Prediction of Chronic Respiratory Diseases</a></li>
+  <li><a href="Projet2">-Fashion Classification</a></li>
   <li><a href="contact">Contact Me</a></li>
 </ul>
 
@@ -69,6 +69,7 @@ permalink: /
 
 
 </div>
+
 
 
 
