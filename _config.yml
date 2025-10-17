@@ -11,7 +11,11 @@ url: "https://fatmaamor.github.io"
 nav:
   - name: "Home"
     link: /
-  - name: "Projects"
-    link: /projets
+  - name: "Prediction of Chronic Respiratory Diseases"
+    link: /Projet1
+     - name: "Fashion Classification"
+    link: /Projet2
   - name: "Contact"
     link: /contact
+<li><a href="Projet1"></a></li>
+  <li><a href="Projet2">Fashion Classification</a></li>
