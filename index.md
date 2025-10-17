@@ -60,7 +60,8 @@ permalink: /
   <h2 style="color:#1E90FF;">Quick Links</h2>
 <ul>
 <ul>
-  <li><a href="Projets">Projects</a></li>
+  <li><a href="Projet-Prediction of Chronic Respiratory Diseases">Project1</a></li>
+  <li><a href="Projet-Fashion Classification">Project2</a></li>
   <li><a href="contact">Contact Me</a></li>
 </ul>
 
@@ -68,6 +69,7 @@ permalink: /
 
 
 </div>
+
 
 
 
