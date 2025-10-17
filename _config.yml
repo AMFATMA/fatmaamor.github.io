@@ -12,9 +12,9 @@ nav:
   - name: "Home"
     link: /
   - name: "Prediction of Chronic Respiratory Diseases"
-    link: /Projet1
+    link: /projet1
      - name: "Fashion Classification"
-    link: /Projet2
+    link: /projet2
   - name: "Contact"
     link: /contact
 <li><a href="Projet1"></a></li>
